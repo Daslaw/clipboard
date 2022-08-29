@@ -1,6 +1,6 @@
-# WEB3BRIDGE - Frontend Mentor | FAQ Accordion Card solution
+# WEB3BRIDGE - Frontend Mentor | Clipboard landing page
 
-This is a solution to the FAQ Accordion Card task for WEB2CVII TEAM 1
+This is a solution to the Clipboard landing page task for WEB2CVII TEAM 1
 
 ## Overview
 
@@ -16,8 +16,8 @@ Users should be able to:
 
 ### Screenshots
 
-![](./assets/images/Screenshot%202022-08-21%20at%2022-08-43%20Frontend%20Mentor%20FAQ%20Accordion%20Card.png)
-![](./assets/images/Screen%20Shot%202022-08-21%20at%2022.13.33.png)
+![](./assets/images/Screenshot%202022-08-29%20at%2009-09-18%20Frontend%20Mentor%20Clipboard%20landing%20page%20Web3bridge.png)
+![](./assets/images/mobile-screen.png)
 
 ### Links
 
