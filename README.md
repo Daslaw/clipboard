@@ -21,20 +21,21 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://github.com/Daslaw/accordion_card.git)
-- Live Site URL:(https://daslaw.github.io/accordion_card/)
+- Solution URL: (https://github.com/Daslaw/clipboard.git)
+- Live Site URL:(https://daslaw.github.io/clipboard/)
 
 ## My process
 
 - Write and Format the HTML section of the Project
-- Styling with CSS
-- Pushed and host on GITHUB 
+- Styling with Advance CSS
+- Pushed and hosted on GITHUB 
 
 ### Built with
 
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
+- Media-query
 
 ### Tools
 
@@ -44,7 +45,7 @@ Users should be able to:
 ### What I learned
 
 - CSS styling with Flexbox and Media Query
-- Use of details html tag
+- Advance CSS
 
 ## Acknowledgments
 
