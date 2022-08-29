@@ -33,7 +33,7 @@ Users should be able to:
 ### Built with
 
 - Semantic HTML5 markup
-- CSS custom properties
+- CSS pseudo-class
 - Flexbox
 - Media-query
 
@@ -45,6 +45,7 @@ Users should be able to:
 ### What I learned
 
 - CSS styling with Flexbox and Media Query
+- Use of CSS global Variables
 - Advance CSS
 
 ## Acknowledgments
